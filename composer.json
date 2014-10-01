@@ -1,0 +1,17 @@
+{
+	"name":              "madmatt/sabnzbd-api-scripts",
+	"description":       "Some scripts to automate some annoying SabNZBd+ tasks",
+	"minimum-stability": "dev",
+	"license":           "WTFPL",
+
+	"require": {
+		"symfony/serializer": "2.5.x-dev"
+	},
+
+	"authors": [
+		{
+			"name":  "Madman",
+			"email": "signups@madman.net.nz"
+		}
+	]
+}
